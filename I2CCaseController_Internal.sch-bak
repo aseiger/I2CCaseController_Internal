@@ -379,7 +379,7 @@ Wire Wire Line
 Wire Wire Line
 	6650 1950 7050 1950
 $Comp
-L Integrated_Circuits:DS2482-800 U8
+L _Sensors:DS2482-800 U8
 U 1 1 5FF21873
 P 9250 1300
 F 0 "U8" H 8750 1900 50  0000 C CNN
